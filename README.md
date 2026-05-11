@@ -39,17 +39,49 @@ The dashboard allows users to:
 * Financial Analytics
 
 ---
+
+## Skills Demonstrated
+
+* Data Cleaning
+* Data Visualization
+* DAX Measures
+* Dashboard Design
+* Interactive Reporting
+* Financial Data Analysis
+* Exploratory Analytics
+
+---
+
 ## Dashboard Preview
 
+### Full Dashboard Overview
+
+Interactive overview showing global bot performance, win rate, equity curve, and weekday profitability analysis.
+
 ![Dashboard Overview](screenshots/Dashboard_1.png)
+
+---
+
+### Best Performing Bot Analysis
+
+Focused analysis of the top-performing trading bot, including profitability behavior, win rate, and equity growth.
 
 ![Best Bot Performance](screenshots/Best_bot_performance.png)
 
 ---
 
+## Insights Generated
+
+* Certain bots showed strong profitability but low trading frequency.
+* Thursday displayed the highest overall profitability.
+* The equity curve revealed periods of drawdown followed by strong recovery.
+* Win rate analysis helped identify unstable trading systems.
+
+---
+
 ## Project Status
 
-Completed – Version 1.0
+Completed — Version 1.0
 
 Future improvements may include:
 
