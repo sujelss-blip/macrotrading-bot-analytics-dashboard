@@ -58,7 +58,7 @@ The dashboard allows users to:
 
 Interactive overview showing global bot performance, win rate, equity curve, and weekday profitability analysis.
 
-![Dashboard Overview](screenshots/Dashboard_1.png)
+![Dashboard Overview](Dashboard_1.png)
 
 ---
 
@@ -66,7 +66,7 @@ Interactive overview showing global bot performance, win rate, equity curve, and
 
 Focused analysis of the top-performing trading bot, including profitability behavior, win rate, and equity growth.
 
-![Best Bot Performance](screenshots/Best_bot_performance.png)
+![Best Bot Performance](Best_bot_performance.png)
 
 ---
 
