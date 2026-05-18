@@ -66,7 +66,7 @@ Interactive overview showing global bot performance, win rate, equity curve, and
 
 Focused analysis of the top-performing trading bot, including profitability behavior, win rate, and equity growth.
 
-![Best Bot Performance](Best_bot_performance.png)
+![Best Bot Performance](Best_bot_performance_v2.png)
 
 ---
 
