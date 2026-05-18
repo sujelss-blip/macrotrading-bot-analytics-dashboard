@@ -58,7 +58,7 @@ The dashboard allows users to:
 
 Interactive overview showing global bot performance, win rate, equity curve, and weekday profitability analysis.
 
-![Dashboard Overview](Dashboard_1.png)
+![Dashboard Overview](Dashboard_v2.png)
 
 ---
 
